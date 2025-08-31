@@ -2,12 +2,12 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 STRINGTABLE
 {
-1000, "Blue"
+1000, "Holo"
 }
 
 STRINGTABLE
 {
-2000, "SunXP Blue"
+2000, "Holo Holographic"
 }
 
 STRINGTABLE
@@ -26,12 +26,12 @@ STRINGTABLE
 
 STRINGTABLE
 {
-5000, "SunXP"
+5000, "Holo"
 5001, "Visual Style"
 5002, "ReactOS Foundation"
-5003, "Pisarz, based on Luna from Windows XP"
+5003, "MSLE789, based on the Holographic UI from early builds of Android 3.0 Honeycomb (builds HRG07-HRG22)"
 5004, "Released under GNU/GPL 3.0, 2018"
-5005, "https://github.com/sagudev/SunXP"
+5005, "https://github.com/elidianesampaiotrabuco/StarrieOS-Holographic"
 5006, "1.0"
-5007, "Visual Style for ReactOS"
+5007, "Visual Style for StarrieOS"
 }
