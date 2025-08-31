@@ -21,4 +21,4 @@ set_source_files_properties(sunxp.rc PROPERTIES OBJECT_DEPENDS "${_converted_fil
 add_library(holo.msstyles SHARED sunxp.rc)
 set_module_type(holo.msstyles module)
 set_target_properties(holo.msstyles PROPERTIES SUFFIX "")
-add_cd_file(TARGET sunxp.msstyles DESTINATION reactos/Resources/Themes/Holo FOR all)
+add_cd_file(TARGET holo.msstyles DESTINATION reactos/Resources/Themes/Holo FOR all)
